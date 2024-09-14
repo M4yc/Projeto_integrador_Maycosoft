@@ -28,7 +28,7 @@ Cada projeto desenvolvido pela Maycosoft segue a seguinte estrutura:
 <table>
   <tr>
     <td align="center">
-      <img src="./assets/Frame_5.png" width=120 height=120 style="border-radius: 50%;">
+      <img src="./assets/Frame_5.png" width=115 style="border-radius: 50%;">
       <br>
       <b>Maycon Araújo</b> - ``M4ycosoft``
     </td>
