@@ -35,22 +35,22 @@ Cada projeto desenvolvido pela Maycosoft segue a seguinte estrutura:
     <td align="center">
       <img src="./assets/Frame_1.png" width=115 style="border-radius: 50%;">
       <br>
-      <b>Nome do Colaborador 1</b> - ``UsuarioGitHub1``
+      <b>Vanessa Campos</b> - ``UsuarioGitHub1``
     </td>
     <td align="center">
       <img src="./assets/Frame_2.png" width=115 style="border-radius: 50%;">
       <br>
-      <b>Nome do Colaborador 2</b> - ``UsuarioGitHub2``
+      <b>Taís Moreira</b> - ``UsuarioGitHub2``
     </td>
     <td align="center">
       <img src="./assets/Frame_3.png" width=115 style="border-radius: 50%;">
       <br>
-      <b>Nome do Colaborador 3</b> - ``UsuarioGitHub3``
+      <b>Luslene Soares</b> - ``UsuarioGitHub3``
     </td>
     <td align="center">
       <img src="./assets/Frame_4.png" width=115 style="border-radius: 50%;">
       <br>
-      <b>Nome do Colaborador 4</b> - ``UsuarioGitHub4``
+      <b>Luiz Filipe Souza</b> - ``UsuarioGitHub4``
     </td>
   </tr>
 </table>
