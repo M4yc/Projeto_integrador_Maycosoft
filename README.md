@@ -30,28 +30,27 @@ Cada projeto desenvolvido pela Maycosoft segue a seguinte estrutura:
     <td align="center">
       <img src="./assets/Frame_5.png" width=115 style="border-radius: 50%;">
       <br>
-      <b>Maycon Araújo</b> - ``M4ycosoft``
+      <b>Maycon Araújo</b> - <a href="https://github.com/M4ycosoft" target="_blank">M4ycosoft</a>
     </td>
     <td align="center">
       <img src="./assets/Frame_1.png" width=115 style="border-radius: 50%;">
       <br>
-      <b>Vanessa Campos</b> - ``Vanessab4arros``
+      <b>Vanessa Campos</b> - <a href="https://github.com/Vanessab4arros" target="_blank">Vanessab4arros</a>
     </td>
     <td align="center">
       <img src="./assets/Frame_2.png" width=115 style="border-radius: 50%;">
       <br>
-      <b>Taís Moreira</b> - ``TaisMoreir``
+      <b>Taís Moreira</b> - <a href="https://github.com/TaisMoreir" target="_blank">TaisMoreir</a>
     </td>
     <td align="center">
       <img src="./assets/Frame_3.png" width=115 style="border-radius: 50%;">
       <br>
-      <b>Luslene Soares</b> - ``luslene``
+      <b>Luslene Soares</b> - <a href="https://github.com/luslene" target="_blank">luslene</a>
     </td>
     <td align="center">
       <img src="./assets/Frame_4.png" width=115 style="border-radius: 50%;">
       <br>
-      <b>Luiz Filipe Souza</b> - ``LuizFilipe16``
+      <b>Luiz Filipe Souza</b> - <a href="https://github.com/LuizFilipe16" target="_blank">LuizFilipe16</a>
     </td>
   </tr>
 </table>
-
