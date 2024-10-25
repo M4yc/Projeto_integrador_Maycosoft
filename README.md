@@ -35,7 +35,7 @@ Cada projeto desenvolvido pela Maycosoft segue a seguinte estrutura:
     <td align="center">
       <img src="./assets/Frame_1.png" width=115 style="border-radius: 50%;">
       <br>
-      <b>Vanessa Campos</b> - <a href="https://github.com/Vanessab4arros" target="_blank">Vanessab4rros</a>
+      <b>Vanessa Campos</b> - <a href="https://github.com/Vanessab4rros" target="_blank">Vanessab4rros</a>
     </td>
     <td align="center">
       <img src="./assets/Frame_2.png" width=115 style="border-radius: 50%;">
