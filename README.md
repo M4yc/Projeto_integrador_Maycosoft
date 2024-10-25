@@ -30,7 +30,7 @@ Cada projeto desenvolvido pela Maycosoft segue a seguinte estrutura:
     <td align="center">
       <img src="./assets/Frame_5.png" width=115 style="border-radius: 50%;">
       <br>
-      <b>Maycon Araújo</b> - <a href="https://github.com/M4ycosoft" target="_blank">M4ycosoft</a>
+      <b>Maycon Araújo</b> - <a href="https://github.com/M4yc" target="_blank">M4yc</a>
     </td>
     <td align="center">
       <img src="./assets/Frame_1.png" width=115 style="border-radius: 50%;">
