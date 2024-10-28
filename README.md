@@ -1,27 +1,28 @@
-# Maycosoft - Repositório de Projetos
+# Desenvolvimento de Interface para a R&R Assistência Técnica
 
-# ![Maycosoft Logo](./assets/Wallpaper.png)
+# ![R&R Assistência Técnica Logo](./assets/Logo.png)
 
-Bem-vindo ao repositório oficial da **Maycosoft**! Aqui você encontrará projetos de desenvolvimento de software e design de interfaces de usuário (UI/UX), criados para transformar ideias em soluções digitais inovadoras.
 
-## 🚀 Sobre a Maycosoft
+## Visão Geral
+### O desafio
+ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-Somos uma empresa especializada no desenvolvimento de softwares personalizados e design centrado no usuário. Nosso foco está em criar soluções tecnológicas que aliam funcionalidade e estética, proporcionando experiências digitais eficientes e intuitivas.
+### Contexto
 
-### Missão
+## Ciclo de vida
+### Ciclo de vida estrela
 
-Nossa missão é transformar ideias em soluções digitais inovadoras, combinando desenvolvimento de software com design para criar produtos que atendam às necessidades dos nossos clientes, sempre com foco na experiência do usuário.
 
-### Slogan
+## Analise de tarefas, usuários e função
 
-"Inovação que transforma ideias em software."
 
-## ⚙ Estrutura dos Projetos
+## Storytelling
 
-Cada projeto desenvolvido pela Maycosoft segue a seguinte estrutura:
+## WHO - Analise dos Stakeholders
+### Perssonas
 
-- `/nomeprojeto`: Diretório principal do projeto.
-- `/assets`: Recursos visuais, como imagen
+## Mapa de empatia
+
 
 ## 🤝 Colaboradores
 
