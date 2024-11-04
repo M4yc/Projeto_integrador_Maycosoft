@@ -1,5 +1,9 @@
-# Desenvolvimento de Interface para a R&R Assistência Técnica
+# Redesign de Interface R&R Assistência Técnica
 
+<p align="center">
+   <img src="" alt="Logo ReR Assistencia Técnica">
+</p>
+<p align="center"> Figura 1 - Logo da R&R Assistência Técnica</p>
 # ![R&R Assistência Técnica Logo](./assets/Logo.png)
 
 
