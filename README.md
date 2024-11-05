@@ -89,22 +89,67 @@ Ao longo da trajetória da empresa, foram desenvolvidos protótipos de baixa fid
 </p>
 <p align="center"> Figura 6 - Dashboard</p>
 
-### Interface Inicial:
+### Interface de visualização dos clientes:
 
 <p align="center">
-   <img src="./assets/Wireframe/Login.png" alt="Login">
+   <img src="./assets/Wireframe/Clientes.png" alt="Tela de clientes">
 </p>
-<p align="center"> Figura 5 - Tela de login</p>
+<p align="center"> Figura 7 - Tela de visualização de clientes</p>
 
-### Interface Inicial:
+### Interface de adição de novo cliente:
 
 <p align="center">
-   <img src="./assets/Wireframe/Login.png" alt="Login">
+   <img src="./assets/Wireframe/New_Clientes.png" alt="Novo Cliente">
 </p>
-<p align="center"> Figura 5 - Tela de login</p>
+<p align="center"> Figura 8 - Tela adicionar novo cliente</p>
+
+### Interface de visualização de produtos:
+
+<p align="center">
+   <img src="./assets/Wireframe/Produtos.png" alt="Produtos">
+</p>
+<p align="center"> Figura 9 - Tela Produtos</p>
+
+### Interface de visualização de calendário:
+
+<p align="center">
+   <img src="./assets/Wireframe/Calendario.png" alt="Calendario">
+</p>
+<p align="center"> Figura 10 - Tela de Calendário</p>
 
 
-## 🤝 Colaboradores
+### Interface de nota de serviço:
+
+<p align="center">
+   <img src="./assets/Wireframe/New_Servicos.png" alt="Novo serviço">
+</p>
+<p align="center"> Figura 11 - Tela adicionar nova nota de serviço</p>
+
+
+### Interface da tela de backup:
+
+<p align="center">
+   <img src="./assets/Wireframe/Backup.png" alt="Backup">
+</p>
+<p align="center"> Figura 12 - Tela de Backup</p>
+
+
+## Protótipo de alta fidelidade
+Utilizamos o Figma para a prototipação do sistema de alta fidelidade para transformar os wireframes iniciais em uma versão mais intuitiva, funcional e moderno.
+
+
+## Processo contínuo
+...
+
+...
+
+
+## ✅ Conclusão
+...
+
+...
+
+## 🤝 Colaboradores do projeto
 
 <table>
   <tr>
