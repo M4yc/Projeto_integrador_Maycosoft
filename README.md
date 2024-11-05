@@ -1,7 +1,7 @@
 # Redesign de Interface R&R Assistência Técnica
 
 <p align="center">
-   <img src="./assets/Logo.png" alt="Logo ReR Assistencia Técnica">
+   <img src="https://github.com/M4yc/Projeto_integrador_Maycosoft/blob/main/assets/Logo.png" alt="Logo ReR Assistencia Técnica">
 </p>
 <p align="center"> Figura 1 - Logo da R&R Assistência Técnica</p>
 
