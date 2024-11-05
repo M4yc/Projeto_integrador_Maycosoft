@@ -1,31 +1,107 @@
 # Redesign de Interface R&R Assistência Técnica
 
 <p align="center">
-   <img src="" alt="Logo ReR Assistencia Técnica">
+   <img src="./assets/Logo.png" alt="Logo ReR Assistencia Técnica">
 </p>
 <p align="center"> Figura 1 - Logo da R&R Assistência Técnica</p>
-# ![R&R Assistência Técnica Logo](./assets/Logo.png)
 
 
-## Visão Geral
-### O desafio
- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+# Visão Geral
+## O desafio
+Idealizar e prototipar um sistema de software já existente tornando-o mais intuitivo e mais moderno, visto que o sistema está abandonado e sem manutenção e possui uma interface muito antiga. Esse software é utilizado na empresa R&R Assistência Técnica para gerenciamento de notas de serviços.
 
-### Contexto
+## Contexto
+Atualmente a R&R Assistência Técnica possui um software de gerenciamento de notas para realizar a emissão de notas de serviços e garantia para os serviços feitos pelo técnico da loja. Entretanto, este software está defasado por não ter uma manutenção correta e por possuir um design bem antigo, além de diversas funções existentes nele que não são utilizadas.
+Percebemos que poderiam ser feitas melhorias tanto na parte visual, quanto na parte da reformulação do sistema como um todo. Simplificando e retirando tudo aquilo que não é utilizável e deixando o que de fato é utilizado de forma mais organizada e intuitiva.
 
-## Ciclo de vida
-### Ciclo de vida estrela
-
-
-## Analise de tarefas, usuários e função
-
+# WHY?
+## Quem utilizará o sistema
+No primeiro momento, o primeiro membro da equipe a ser product owner, entrou em contato com a empresa oferecendo o nosso serviço de Design. Houve então uma reunião com o dono da empresa, ele nos encaminhou para a secretária, que é a pessoa que utiliza o software. Com isso ela nos apresentou o programa e quais eram as dificuldades e as insatisfações.
+### Quais seriam os problemas?
+  - Interface muito antiga, tendo como forma de manuseio, somente o teclado;
+  - Programa com cores que não combinam com a empresa;
+  - Funções saturadas, procedimentos com pouca interatividade com o usuário;
+  - Por ter uma interface pouco intuitiva, os procedimentos demandam mais tempo para serem concluídos.
 
 ## Storytelling
+"Há alguns meses a secretária Vanilda, a responsável por administrar a loja R&R Assistência Técnica, começou a perceber que os lugares em que ela frequentava, grande parte das lojas e oficinas utilizam de softwares para facilitar o gerenciamento da loja e emissão de notas. Como ela também utiliza um, ela acabava reparando os programas de outras lojas, e com isso ela percebia que os softwares eram mais modernos, mais fácil de manusear e mais simples que a de seu serviço. E percebeu também que aqueles softwares pareciam ter sido feitos pensado nas necessidades das empresas de forma específica, o que não é o seu caso, visto que o software da R&R é genérico e pode ser usado para várias lojas. Sendo assim, ela percebeu que se no seu local de trabalho tivesse um programa que fizesse realmente aquilo que ela precisa fazer facilitaria ainda mais a vida dela.
 
-## WHO - Analise dos Stakeholders
-### Perssonas
+Os dias foram se passando e ela trabalhando cada vez mais pensando na possibilidade de automatizar ainda mais o que precisa ser organizado na loja, para facilitar sua administração, visto que, nessa era da tecnologia há muita informação e com isso ela relatou que dá impressão de que o tempo está passando mais rápido, e ela precisava de ganhar mais tempo para resolver outras coisas. Sendo assim, ela tinha esse desejo de conseguir fazer a máquina trabalhar e ajudar ela na organização das coisas da loja. Na cabeça dela isso otimizaria o tempo dela e aumentaria a produtividade."
 
-## Mapa de empatia
+# WHO?
+
+## Persona
+
+Com base nas hipóteses, storytelling e pesquisa com o usuário, nós criamos a persona para representar a secretária que irá utilizar do produto modificado:
+
+<p align="center">
+   <img src="./assets/Persona.jpeg" alt="Persona">
+</p>
+<p align="center"> Figura 2 - Persona</p>
+
+
+## Mapa de Empatia
+Na intenção de entender as necessidades e as perspectivas da nossa cliente, se colocando no lugar dela, foi desenvolvido em sala de aula um mapa de empatia considerando a persona que foi criada.
+
+<p align="center">
+   <img src="./assets/Mapa_de_empatia.png" alt="Mapa de empatia">
+</p>
+<p align="center"> Figura 3 - Mapa de Empatia</p>
+
+
+## Identidade Visual
+A Identidade visual do sistema foi inspirada nas cores e na logomarca da R&R Assistência Técnica,com algumas adaptações criativas para harmonizar com o estilo visual desejado. A paleta de cores foi baseada nos tons característicos da empresa, mas sofreu ajustes para atender a uma estética personalizada e única.
+
+<p align="center">
+   <img src="./assets/Identidade_Visual.png" alt="Identidade Visual">
+</p>
+<p align="center"> Figura 4 - Identidade Visual</p>
+
+## Wireframe
+Ao longo da trajetória da empresa, foram desenvolvidos protótipos de baixa fidelidade no (Figma), incorporando as funções essenciais do sistema. Este protótipo foi criado com foco na validação inicial do conceito e fluxo de usuário, servirá de base sólida para o desenvolvimento de um protótipo de alta fidelidade. A transição para alta fidelidade permitirá a exploração mais detalhada da interface, incluindo elementos visuais refinados, interações mais complexas e uma experiência de usuário mais imersiva com o protótipo de alta fidelidade, pretendemos testar a usabilidade em um contexto mais próximo da realidade, coletando feedback crucial para garantir uma experiência intuitiva e eficiente para os usuários finais.
+
+- A interface inicial oferece duas funcionalidades essenciais para a navegação do usuário: acesso à plataforma e registro. A funcionalidade de acesso permite que usuários cadastrados entrem em suas contas usando nome de usuário e senha. Já a funcionalidade de registro possibilita a criação de novas contas para usuários que ainda não estão cadastrados na plataforma.
+
+- Após o login bem-sucedido, o usuário acessa o painel principal, uma central de controle que disponibiliza quatro módulos funcionais: gerenciamento de clientes, catálogo de produtos, acompanhamento de pedidos.
+
+- A função de Gerenciamento de Clientes exibe uma lista completa dos clientes cadastrados. Cada cliente é representado por seu código único, nome, endereço completo, número de telefone e data do último contato. Além disso, este módulo permite o cadastro de novos clientes, facilitando a expansão da base de dados.
+
+- A seção de Catálogo de Produtos apresenta uma listagem completa, contendo o código de identificação único de cada produto, sua descrição detalhada e o respectivo preço de venda e que também permite o cadastro de novos produtos.
+
+- A área de Acompanhamento de Pedidos exibe uma lista de todas as notas de serviço emitidas, detalhando o código de cada nota, o nome do cliente associado, o status atual do pedido (pendente, em andamento, concluído), o valor total, e data de emissão. Este módulo também oferece funcionalidades para criação de novas notas de serviço.
+
+- O módulo de Calendário permite a visualização de datas em três perspectivas distintas: mensal, semanal e anual, oferecendo flexibilidade na organização e consulta de informações cronológicas,o calendário tem também a funcionalidade para ver os serviços que precisam ser feitos novamente (serviços recorrentes).
+
+- A seção de Configurações permite o acesso ao perfil do usuário para gerenciamento de dados pessoais, às configurações de segurança da conta e às ferramentas de backup e recuperação de dados.
+
+## Wireframe Completo
+### Interface Inicial:
+
+<p align="center">
+   <img src="./assets/Wireframe/Login.png" alt="Login">
+</p>
+<p align="center"> Figura 5 - Tela de login</p>
+
+### Interface de Dashboard:
+
+<p align="center">
+   <img src="./assets/Wireframe/Dashboard.png" alt="Dashboard">
+</p>
+<p align="center"> Figura 6 - Dashboard</p>
+
+### Interface Inicial:
+
+<p align="center">
+   <img src="./assets/Wireframe/Login.png" alt="Login">
+</p>
+<p align="center"> Figura 5 - Tela de login</p>
+
+### Interface Inicial:
+
+<p align="center">
+   <img src="./assets/Wireframe/Login.png" alt="Login">
+</p>
+<p align="center"> Figura 5 - Tela de login</p>
 
 
 ## 🤝 Colaboradores
