@@ -154,7 +154,7 @@ Utilizamos o Figma para a prototipação do sistema de alta fidelidade para tran
 <table>
   <tr>
     <td align="center">
-      <img src="./assets/Frame_5.png" width=115 style="border-radius: 50%;">
+      <img src="./assets/Maycon.png" width=115 style="border-radius: 50%;">
       <br>
       <b>Maycon Araújo</b> - <a href="https://github.com/M4yc" target="_blank">M4yc</a>
     </td>
@@ -164,17 +164,17 @@ Utilizamos o Figma para a prototipação do sistema de alta fidelidade para tran
       <b>Vanessa Campos</b> - <a href="https://github.com/Vanessab4rros" target="_blank">Vanessab4rros</a>
     </td>
     <td align="center">
-      <img src="./assets/Frame_2.png" width=115 style="border-radius: 50%;">
+      <img src="./assets/Tais.png" width=115 style="border-radius: 50%;">
       <br>
       <b>Taís Moreira</b> - <a href="https://github.com/TaisMoreir" target="_blank">TaisMoreir</a>
     </td>
     <td align="center">
-      <img src="./assets/Frame_3.png" width=115 style="border-radius: 50%;">
+      <img src="./assets/Luslene.png" width=115 style="border-radius: 50%;">
       <br>
       <b>Luslene Soares</b> - <a href="https://github.com/luslene" target="_blank">luslene</a>
     </td>
     <td align="center">
-      <img src="./assets/Frame_4.png" width=115 style="border-radius: 50%;">
+      <img src="./assets/Luiz.png" width=115 style="border-radius: 50%;">
       <br>
       <b>Luiz Filipe Souza</b> - <a href="https://github.com/LuizFilipe16" target="_blank">LuizFilipe16</a>
     </td>
