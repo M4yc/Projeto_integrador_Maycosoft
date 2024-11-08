@@ -159,7 +159,7 @@ Utilizamos o Figma para a prototipação do sistema de alta fidelidade para tran
       <b>Maycon Araújo</b> - <a href="https://github.com/M4yc" target="_blank">M4yc</a>
     </td>
     <td align="center">
-      <img src="./assets/Frame_1.png" width=115 style="border-radius: 50%;">
+      <img src="./assets/Vanessa.png" width=115 style="border-radius: 50%;">
       <br>
       <b>Vanessa Campos</b> - <a href="https://github.com/Vanessab4rros" target="_blank">Vanessab4rros</a>
     </td>
