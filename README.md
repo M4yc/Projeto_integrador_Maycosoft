@@ -145,7 +145,8 @@ Utilizamos o Figma para a prototipação do sistema de alta fidelidade para tran
 
 
 ## ✅ Conclusão
-...
+Sob a orientação da professora Cristiane Aparecida Lana, tivemos a oportunidade de finalizar a primeira parte do Projeto Integrador, no qual desenvolvemos um protótipo de um sistema para atender as demandas da R & R Assistência Técnicas (Roni & Refrigeração Assistência Técnicas). Foi uma experiência muito prática e enriquecedora, que nos permitiu vivenciar de perto os processos de design do desenvolvimento de software. O foco principal foi na etapa de prototipação, e passamos por todas as fases, desde a documentação até o design final do sistema. Trabalhamos de forma colaborativa, simulando a criação da empresa fictícia Maycosoft, o que trouxe um ambiente dinâmico e realista. Cada integrante da equipe assumiu papéis como CEO, Scrum Master, Analista de Sistemas, Product Owner e Designer, o que nos ajudou a entender melhor como cada função contribui e qual a importância de cada responsabilidade no sucesso do projeto. Essa integração nos fez enxergar na prática o valor de trabalhar juntos e o impacto de cada contribuição individual.
+
 
 
 <a href="https://www.figma.com/proto/y07bEpP7CT5DcHuFfINMft/Design-R%26R-(Copy)?page-id=472%3A710&node-id=478-621&node-type=frame&viewport=330%2C237%2C0.11&t=wxFpW37kaxjzIxi0-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=478%3A621"> Link Interface de Alta Fidelidade <a/>
