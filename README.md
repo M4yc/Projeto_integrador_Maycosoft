@@ -149,7 +149,7 @@ Sob a orientação da professora Cristiane Aparecida Lana, tivemos a oportunidad
 
 
 
-<a href="https://www.figma.com/proto/y07bEpP7CT5DcHuFfINMft/Design-R%26R-(Copy)?page-id=472%3A710&node-id=478-621&node-type=frame&viewport=330%2C237%2C0.11&t=wxFpW37kaxjzIxi0-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=478%3A621"> Link Interface de Alta Fidelidade <a/>
+<a href="https://www.figma.com/proto/qBblvwZG3D7UGILCJ8Zh0n/Design-R%26R?node-id=478-621&scaling=min-zoom&content-scaling=fixed&page-id=472%3A710&starting-point-node-id=478%3A621"> Link Interface de Alta Fidelidade <a/>
 
 ...
 
