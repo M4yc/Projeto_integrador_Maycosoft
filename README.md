@@ -162,7 +162,7 @@ Sob a orientação da professora Cristiane Aparecida Lana, tivemos a oportunidad
     <td align="center">
       <img src="./assets/Vanessa.png" width=115 style="border-radius: 50%;">
       <br>
-      <b>Vanessa Campos</b> - <a href="https://github.com/Vanessab4rros" target="_blank">Vanessab4rros</a>
+      <b>Vanessa Barros</b> - <a href="https://github.com/Vanessab4rros" target="_blank">Vanessab4rros</a>
     </td>
     <td align="center">
       <img src="./assets/Tais.png" width=115 style="border-radius: 50%;">
