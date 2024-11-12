@@ -151,10 +151,19 @@ Através do figma realizou-se a criação das telas de login, cadastro de produt
 <a href="https://www.figma.com/proto/qBblvwZG3D7UGILCJ8Zh0n/Design-R%26R?node-id=478-621&scaling=min-zoom&content-scaling=fixed&page-id=472%3A710&starting-point-node-id=478%3A621" target="_blank">Interface de Alta Fidelidade </a>
 
 ## Processo contínuo
-...
+As sequências de ações para completar o projeto seriam:
+Estamos começando o processo de refinar a interface, E fazer as telas, e animações restantes: Estamos melhorando o visual e a usabilidade do sistema. Isso inclui criar todas as telas que faltam e adicionar as animações para deixar tudo mais fluido e agradável de usar. Estamos testando tudo para garantir que fique fácil e intuitivo para qualquer pessoa usar. Ainda tem algumas coisas para finalizar, mas estamos bem encaminhados.
+
+- Também estamos organizando o Trello: Deixando o nosso quadro de tarefas (Trello) bem organizado e fácil de entender. Estamos arrumando tudo para ficar mais claro o que já foi feito, o que está sendo feito e o que ainda falta fazer. Assim, fica mais fácil acompanhar o andamento do projeto e saber exatamente onde estamos. Estamos quase terminando essa parte.
+
+- Estamos escrevendo o texto que vai resumir tudo o que foi feito no projeto. Queremos deixar claro o que foi alcançado e os resultados obtidos. Estamos focando em escrever algo que seja fácil de entender e que mostre bem o sucesso do nosso trabalho.
+
+- Estamos revisando todo o texto para corrigir qualquer erro de digitação, gramática ou clareza. Queremos garantir que tudo esteja bem escrito e fácil de entender, sem erros ou confusões. Estamos quase terminando essa etapa de checagem.
+
+- Também estamos transferindo todos os documentos e códigos para o GitHub. Isso vai facilitar o trabalho em equipe e garantir que todos tenham acesso aos arquivos mais atualizados. Estamos quase finalizando essa etapa de transferência para o repositório.
+
 
 <a href="https://drive.google.com/file/d/1CkTfOk3pIiZ_FXGgSiVQQI4GnXnkIZFp/view?usp=sharing"> Video Explicativo do protótipo</a>
-...
 
 
 ## ✅ Conclusão
