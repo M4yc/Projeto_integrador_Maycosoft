@@ -137,7 +137,6 @@ Ao longo da trajetória da empresa, foram desenvolvidos protótipos de baixa fid
 ## Protótipo de alta fidelidade
 Facilita a visualização de como o sistema funcionará na prática, permitindo que ajude o cliente pensar em melhorias ou alterações antes da etapa de desenvolvimento, garantindo que todas as funções do sistema atendam às necessidades dos usuários.
 
-<a href="https://drive.google.com/file/d/1CkTfOk3pIiZ_FXGgSiVQQI4GnXnkIZFp/view?usp=sharing">Protótipo de alta fidelidade </a>
 
 **Design Visual e Layout das Telas**
 
@@ -153,6 +152,7 @@ Através do figma realizou-se a criação das telas de login, cadastro de produt
 ## ✅ Conclusão
 Sob a orientação da professora Cristiane Aparecida Lana, tivemos a oportunidade de finalizar a primeira parte do Projeto Integrador, no qual desenvolvemos um protótipo de um sistema para atender as demandas da R & R Assistência Técnicas (Roni & Refrigeração Assistência Técnicas). Foi uma experiência muito prática e enriquecedora, que nos permitiu vivenciar de perto os processos de design do desenvolvimento de software. O foco principal foi na etapa de prototipação, e passamos por todas as fases, desde a documentação até o design final do sistema. Trabalhamos de forma colaborativa, simulando a criação da empresa fictícia Maycosoft, o que trouxe um ambiente dinâmico e realista. Cada integrante da equipe assumiu papéis como CEO, Scrum Master, Analista de Sistemas, Product Owner e Designer, o que nos ajudou a entender melhor como cada função contribui e qual a importância de cada responsabilidade no sucesso do projeto. Essa integração nos fez enxergar na prática o valor de trabalhar juntos e o impacto de cada contribuição individual.
 
+<a href="https://drive.google.com/file/d/1CkTfOk3pIiZ_FXGgSiVQQI4GnXnkIZFp/view?usp=sharing"> Video de Apresentação </a>
 
 <a href="https://www.figma.com/proto/qBblvwZG3D7UGILCJ8Zh0n/Design-R%26R?node-id=478-621&scaling=min-zoom&content-scaling=fixed&page-id=472%3A710&starting-point-node-id=478%3A621" target="_blank">Interface de Alta Fidelidade </a>
 
