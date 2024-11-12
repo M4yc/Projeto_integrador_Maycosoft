@@ -137,6 +137,8 @@ Ao longo da trajetória da empresa, foram desenvolvidos protótipos de baixa fid
 ## Protótipo de alta fidelidade
 Facilita a visualização de como o sistema funcionará na prática, permitindo que ajude o cliente pensar em melhorias ou alterações antes da etapa de desenvolvimento, garantindo que todas as funções do sistema atendam às necessidades dos usuários.
 
+<a href="https://drive.google.com/file/d/1CkTfOk3pIiZ_FXGgSiVQQI4GnXnkIZFp/view?usp=sharing">Protótipo de alta fidelidade </a>
+
 **Design Visual e Layout das Telas**
 
 Através do figma realizou-se a criação das telas de login, cadastro de produtos e clientes, listas e busca, e envio de notas, com um layout intuitivo e moderno.
