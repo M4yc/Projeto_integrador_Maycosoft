@@ -152,7 +152,8 @@ Através do figma realizou-se a criação das telas de login, cadastro de produt
 
 ## Processo contínuo
 As sequências de ações para completar o projeto seriam:
-Estamos começando o processo de refinar a interface, E fazer as telas, e animações restantes: Estamos melhorando o visual e a usabilidade do sistema. Isso inclui criar todas as telas que faltam e adicionar as animações para deixar tudo mais fluido e agradável de usar. Estamos testando tudo para garantir que fique fácil e intuitivo para qualquer pessoa usar. Ainda tem algumas coisas para finalizar, mas estamos bem encaminhados.
+
+- Estamos começando o processo de refinar a interface, e fazer as telas, e animações restantes: Estamos melhorando o visual e a usabilidade do sistema. Isso inclui criar todas as telas que faltam e adicionar as animações para deixar tudo mais fluido e agradável de usar. Estamos testando tudo para garantir que fique fácil e intuitivo para qualquer pessoa usar. Ainda tem algumas coisas para finalizar, mas estamos bem encaminhados.
 
 - Também estamos organizando o Trello: Deixando o nosso quadro de tarefas (Trello) bem organizado e fácil de entender. Estamos arrumando tudo para ficar mais claro o que já foi feito, o que está sendo feito e o que ainda falta fazer. Assim, fica mais fácil acompanhar o andamento do projeto e saber exatamente onde estamos. Estamos quase terminando essa parte.
 
