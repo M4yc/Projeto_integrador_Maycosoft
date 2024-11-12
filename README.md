@@ -28,6 +28,12 @@ No primeiro momento, o primeiro membro da equipe a ser product owner, entrou em 
 
 Os dias foram se passando e ela trabalhando cada vez mais pensando na possibilidade de automatizar ainda mais o que precisa ser organizado na loja, para facilitar sua administração, visto que, nessa era da tecnologia há muita informação e com isso ela relatou que dá impressão de que o tempo está passando mais rápido, e ela precisava de ganhar mais tempo para resolver outras coisas. Sendo assim, ela tinha esse desejo de conseguir fazer a máquina trabalhar e ajudar ela na organização das coisas da loja. Na cabeça dela isso otimizaria o tempo dela e aumentaria a produtividade."
 
+Ao ter acesso ao programa, analisamos que além de ter uma interface antiga, tinha muita coisa desnecessária dentro do software que ela não utilizava para nada. E mesmo tendo diversas possibilidades, ainda faltavam funcionalidades que para ela facilitaria o gerenciamento da empresa. Percebemos a necessidade de simplificar o programa, dar uma cara nova na interface e ir construindo com ela as funcionalidades em que ela tanto queria.
+
+Por fim, como todas as histórias, conseguimos chegar a um acordo e encontrar uma solução para aqueles problemas. Reformulamos os caminhos de cada funcionalidade, retiramos tudo aquilo que não fazia parte do gerenciamento daquela empresa em específico e criamos uma interface mais intuitiva e com as cores desejadas pela secretária, que era seguindo as cores da logomarca da empresa. De frustração a eficiência e intuitividade, tentando ao máximo gerar uma boa experiência ao usuário, criamos o projeto e apresentamos a empresa cliente. Eles ficaram satisfeitos com o resultado e aguardam ansiosamente a implementação.
+
+Essa narrativa mostra que reformular um sistema que não vem atendendo bem às necessidades do cliente, para um programa mais pensando na usabilidade do próprio, pode gerar muito mais satisfação e conforto.
+
 # WHO?
 
 ## Persona
