@@ -32,7 +32,7 @@ Ao ter acesso ao programa, analisamos que além de ter uma interface antiga, tin
 
 Por fim, como todas as histórias, conseguimos chegar a um acordo e encontrar uma solução para aqueles problemas. Reformulamos os caminhos de cada funcionalidade, retiramos tudo aquilo que não fazia parte do gerenciamento daquela empresa em específico e criamos uma interface mais intuitiva e com as cores desejadas pela secretária, que era seguindo as cores da logomarca da empresa. De frustração a eficiência e intuitividade, tentando ao máximo gerar uma boa experiência ao usuário, criamos o projeto e apresentamos a empresa cliente. Eles ficaram satisfeitos com o resultado e aguardam ansiosamente a implementação.
 
-Essa narrativa mostra que reformular um sistema que não vem atendendo bem às necessidades do cliente, para um programa mais pensando na usabilidade do próprio, pode gerar muito mais satisfação e conforto.
+Essa narrativa demonstra que a reformulação de um sistema que não tem atendido de forma eficaz às necessidades do cliente, adaptando-o para um programa mais focado na usabilidade, pode proporcionar significativamente mais satisfação e conforto ao usuário.
 
 # WHO?
 
