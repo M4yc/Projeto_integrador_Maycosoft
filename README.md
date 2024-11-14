@@ -55,19 +55,23 @@ Na intenção de entender as necessidades e as perspectivas da nossa cliente, se
 <p align="center"> Figura 3 - Mapa de Empatia</p>
 
 ## Requisitos 
-A interface visual foi modificada para ser intuitiva, moderna e facilitar a navegação para todos os usuários.
+**1.Interface visual moderna e intuitiva:**
+A interface deverá ser redesenhada para ser mais fácil de utilizar.
+Utilizar as mesmas cores já disponíveis na empresa.
 
-A navegação por mouse foi ajustada para ser totalmente funcional em todas as áreas do sistema.
+**2. Adição de navegação por mouse:**
+Implementar a funcionalidade para navegar pela interface com o mouse.
 
-O sistema de busca de mercadorias foi otimizado para ser rápido e eficiente, permitindo a busca de produtos por nome ou ID conforme especificado.
+**3. Implementar a funcionalidade de busca de mercadorias:**
+Adicionar a opção de buscar produtos no estoque a partir do nome ou do ID.
 
-Foi implementada a funcionalidade de geração de PDF para notas de garantia e serviço. As alterações na geração de notas, incluindo a remoção do campo "Cor" e a adição do campo "Observações", já estão presentes e funcionando conforme o especificado.
+**4. Geração de nota de garantia e serviço:**
+Após a geração da nota e/ou serviço, inserir um botão para gerar o PDF e enviá-lo ao cliente.
 
-Todos os módulos e funcionalidades do sistema foram testados e verificados.
+**5. Modificação de campos na geração da nota:**
+Remover a opção de “Cor” na nota.
+Adicionar um campo de “Observações” na nota para permitir a inserção de mais informações.
 
-Os critérios de aceitação finais foram integralmente cumpridos, conforme especificado no escopo do projeto.
-
-As expectativas em relação à qualidade, design e funcionalidade do sistema foram atendidas e validadas pelos usuários finais.
 
 ## Identidade Visual
 A Identidade visual do sistema foi inspirada nas cores e na logomarca da R&R Assistência Técnica,com algumas adaptações criativas para harmonizar com o estilo visual desejado. A paleta de cores foi baseada nos tons característicos da empresa, mas sofreu ajustes para atender a uma estética personalizada e única.
