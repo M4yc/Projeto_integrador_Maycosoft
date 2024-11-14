@@ -54,6 +54,20 @@ Na intenção de entender as necessidades e as perspectivas da nossa cliente, se
 </p>
 <p align="center"> Figura 3 - Mapa de Empatia</p>
 
+## Requisitos 
+A interface visual foi modificada para ser intuitiva, moderna e facilitar a navegação para todos os usuários.
+
+A navegação por mouse foi ajustada para ser totalmente funcional em todas as áreas do sistema.
+
+O sistema de busca de mercadorias foi otimizado para ser rápido e eficiente, permitindo a busca de produtos por nome ou ID conforme especificado.
+
+Foi implementada a funcionalidade de geração de PDF para notas de garantia e serviço. As alterações na geração de notas, incluindo a remoção do campo "Cor" e a adição do campo "Observações", já estão presentes e funcionando conforme o especificado.
+
+Todos os módulos e funcionalidades do sistema foram testados e verificados.
+
+Os critérios de aceitação finais foram integralmente cumpridos, conforme especificado no escopo do projeto.
+
+As expectativas em relação à qualidade, design e funcionalidade do sistema foram atendidas e validadas pelos usuários finais.
 
 ## Identidade Visual
 A Identidade visual do sistema foi inspirada nas cores e na logomarca da R&R Assistência Técnica,com algumas adaptações criativas para harmonizar com o estilo visual desejado. A paleta de cores foi baseada nos tons característicos da empresa, mas sofreu ajustes para atender a uma estética personalizada e única.
