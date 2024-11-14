@@ -57,24 +57,24 @@ Na intenção de entender as necessidades e as perspectivas da nossa cliente, se
 ## Requisitos 
 **1.Interface visual moderna e intuitiva:**
 
-A interface deverá ser redesenhada para ser mais fácil de utilizar.
-Utilizar as mesmas cores já disponíveis na empresa.
+*A interface deverá ser redesenhada para ser mais fácil de utilizar.*
+*Utilizar as mesmas cores já disponíveis na empresa.*
 
 **2. Adição de navegação por mouse:**
 
-Implementar a funcionalidade para navegar pela interface com o mouse.
+*Implementar a funcionalidade para navegar pela interface com o mouse.*
 
 **3. Implementar a funcionalidade de busca de mercadorias:**
 
-Adicionar a opção de buscar produtos no estoque a partir do nome ou do ID.
+*Adicionar a opção de buscar produtos no estoque a partir do nome ou do ID.*
 
 **4. Geração de nota de garantia e serviço:**
 
-Após a geração da nota e/ou serviço, inserir um botão para gerar o PDF e enviá-lo ao cliente.
+*Após a geração da nota e/ou serviço, inserir um botão para gerar o PDF e enviá-lo ao cliente.*
 
 **5. Modificação de campos na geração da nota:**
 
-Remover a opção de “Cor” na nota. Adicionar um campo de “Observações” na nota para permitir a inserção de mais informações.
+*Remover a opção de “Cor” na nota. Adicionar um campo de “Observações” na nota para permitir a inserção de mais informações.*
 
 
 ## Identidade Visual
