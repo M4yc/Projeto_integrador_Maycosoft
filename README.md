@@ -149,7 +149,7 @@ Figura 4 - Tela de adicionar novo cliente
 ![fig 5](https://github.com/user-attachments/assets/ef1449e6-5681-4c3f-bec5-e4637b09b411)
 </p>
 <p align="center"> 
-Figura 5 - Tela Produtos
+Figura 5 - Tela de Produtos
 </p>
 
 ### Interface de visualização de calendário:
@@ -169,7 +169,7 @@ Figura 6 - Tela de Calendário
 ![fig 7](https://github.com/user-attachments/assets/6e3c367b-9b6e-435d-a775-88ecc27e6dee)
 </p>
 <p align="center"> 
-Figura 7 - Tela adicionar nova nota de serviço
+Figura 7 - Tela de adicionar nova nota de serviço
 </p>
 
 ### Interface da tela de backup:
