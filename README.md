@@ -80,7 +80,7 @@ Na intenção de entender as necessidades e as perspectivas da nossa cliente, se
 
 
 ## Identidade Visual
-A Identidade visual do sistema foi inspirada nas cores e na logomarca da R&R Assistência Técnica,com algumas adaptações criativas para harmonizar com o estilo visual desejado. A paleta de cores foi baseada nos tons característicos da empresa, mas sofreu ajustes para atender a uma estética personalizada e única.
+A Identidade visual do sistema foi inspirada nas cores e na logomarca da R&R Assistência Técnica,com algumas adaptações criativas para harmonizar com o estilo visual desejado. A paleta de cores foi baseada nos tons característicos da empresa, mas sofreu ajustes que foram da paleta de cor roxa( Sendo essa a cor inicial ). Para a de cor azul para atender uma estética personalizada e única de acordo com o gosto do nosso cliente.
 
 <p align="center">
    <img src="./assets/Identidade_Visual.png" alt="Identidade Visual">
@@ -88,29 +88,30 @@ A Identidade visual do sistema foi inspirada nas cores e na logomarca da R&R Ass
 <p align="center"> Figura 4 - Identidade Visual</p>
 
 ## Wireframe
-Ao longo da trajetória da empresa, foram desenvolvidos protótipos de baixa fidelidade no (Figma), incorporando as funções essenciais do sistema. Este protótipo foi criado com foco na validação inicial do conceito e fluxo de usuário, servirá de base sólida para o desenvolvimento de um protótipo de alta fidelidade. A transição para alta fidelidade permitirá a exploração mais detalhada da interface, incluindo elementos visuais refinados, interações mais complexas e uma experiência de usuário mais imersiva com o protótipo de alta fidelidade, pretendemos testar a usabilidade em um contexto mais próximo da realidade, coletando feedback crucial para garantir uma experiência intuitiva e eficiente para os usuários finais.
+Ao longo da trajetória da empresa Maycosoft, foram desenvolvidos protótipos de baixa fidelidade no (Figma), incorporando as funções essenciais do sistema. Este protótipo foi criado com foco na validação inicial do conceito e fluxo de usuário, servirá de base sólida para o desenvolvimento de um protótipo de alta fidelidade. A transição para alta fidelidade permitirá a exploração mais detalhada da interface, incluindo elementos visuais refinados, interações mais complexas e uma experiência de usuário mais imersiva com o protótipo de alta fidelidade, pretendemos testar a usabilidade em um contexto mais próximo da realidade, coletando feedback essencial para garantir uma experiência intuitiva e eficiente para os usuários finais.
+  
+A interface inicial oferece duas funcionalidades essenciais para a navegação do usuário: acesso à plataforma e registro. A funcionalidade de acesso permite que usuários cadastrados entrem em suas contas usando nome de usuário e senha. Já a funcionalidade de registro possibilita a criação de novas contas para usuários que ainda não estão cadastrados na plataforma.
 
-- A interface inicial oferece duas funcionalidades essenciais para a navegação do usuário: acesso à plataforma e registro. A funcionalidade de acesso permite que usuários cadastrados entrem em suas contas usando nome de usuário e senha. Já a funcionalidade de registro possibilita a criação de novas contas para usuários que ainda não estão cadastrados na plataforma.
+ Após o login bem-sucedido, o usuário acessa o painel principal, uma central de controle que disponibiliza quatro módulos funcionais: gerenciamento de clientes, catálogo de produtos, acompanhamento de pedidos.
 
-- Após o login bem-sucedido, o usuário acessa o painel principal, uma central de controle que disponibiliza quatro módulos funcionais: gerenciamento de clientes, catálogo de produtos, acompanhamento de pedidos.
+A função de Gerenciamento de Clientes exibe uma lista completa dos clientes cadastrados. Cada cliente é representado por seu código único, nome, endereço completo, número de telefone e data do último contato. Além disso, este módulo permite o cadastro de novos clientes, facilitando a expansão da base de dados.
 
-- A função de Gerenciamento de Clientes exibe uma lista completa dos clientes cadastrados. Cada cliente é representado por seu código único, nome, endereço completo, número de telefone e data do último contato. Além disso, este módulo permite o cadastro de novos clientes, facilitando a expansão da base de dados.
+A seção de Catálogo de Produtos apresenta uma listagem completa, contendo o código de identificação único de cada produto, sua descrição detalhada e o respectivo preço de venda e que também permite o cadastro de novos produtos.
+A área  de Acompanhamento de Pedidos exibe uma lista de todas as notas de serviço emitidas, detalhando o código de cada nota, o nome do cliente associado, o status atual do pedido (pendente, em andamento, concluído), o valor total, e data de emissão. Este módulo também oferece funcionalidades para criação de novas notas de serviço.
 
-- A seção de Catálogo de Produtos apresenta uma listagem completa, contendo o código de identificação único de cada produto, sua descrição detalhada e o respectivo preço de venda e que também permite o cadastro de novos produtos.
+O módulo de Calendário permite a visualização de datas em três perspectivas distintas: mensal, semanal e anual, oferecendo flexibilidade na organização e consulta de informações cronológicas,o calendário tem também a funcionalidade para ver os serviços que precisam ser feitos novamente (serviços recorrentes) .
 
-- A área de Acompanhamento de Pedidos exibe uma lista de todas as notas de serviço emitidas, detalhando o código de cada nota, o nome do cliente associado, o status atual do pedido (pendente, em andamento, concluído), o valor total, e data de emissão. Este módulo também oferece funcionalidades para criação de novas notas de serviço.
+A seção de Configurações permite o acesso ao perfil do usuário para gerenciamento de dados pessoais, às configurações de segurança da conta e às ferramentas de backup e recuperação de dados.
 
-- O módulo de Calendário permite a visualização de datas em três perspectivas distintas: mensal, semanal e anual, oferecendo flexibilidade na organização e consulta de informações cronológicas,o calendário tem também a funcionalidade para ver os serviços que precisam ser feitos novamente (serviços recorrentes).
-
-- A seção de Configurações permite o acesso ao perfil do usuário para gerenciamento de dados pessoais, às configurações de segurança da conta e às ferramentas de backup e recuperação de dados.
 
 ## Wireframe Completo
 ### Interface Inicial:
 
 <p align="center">
-   <img src="./assets/Wireframe/Login.png" alt="Login">
+   <img src="C:\Users\Luslene\Pictures\Screenshots\Captura de tela 2024-11-13 142617.png" alt="Login">
 </p>
-<p align="center"> Figura 5 - Tela de login</p>
+<p align="center"> Figura 1 -Aqui o usuário faz login com o seu nome e a sua senha.
+ </p>
 
 ### Interface de Dashboard:
 
@@ -175,17 +176,17 @@ Através do figma realizou-se a criação das telas de login, cadastro de produt
 <a href="https://www.figma.com/proto/qBblvwZG3D7UGILCJ8Zh0n/Design-R%26R?node-id=478-621&scaling=min-zoom&content-scaling=fixed&page-id=472%3A710&starting-point-node-id=478%3A621" target="_blank">Interface de Alta Fidelidade </a>
 
 ## Processo contínuo
-As sequências de ações para completar o projeto seriam:
+ As sequências de ações para completar o projeto seriam:
+Iniciamos o processo de refino da interface, criando telas e animações restantes para melhorar visual e usabilidade do sistema. A criação das telas faltantes e adição de animações garantem fluidez e usabilidade agradável. Testamos tudo para garantir facilidade e intuitividade de uso. Há ajustes finais, mas o progresso é substancial.
 
-- Estamos começando o processo de refinar a interface, e fazer as telas, e animações restantes: Estamos melhorando o visual e a usabilidade do sistema. Isso inclui criar todas as telas que faltam e adicionar as animações para deixar tudo mais fluido e agradável de usar. Estamos testando tudo para garantir que fique fácil e intuitivo para qualquer pessoa usar. Ainda tem algumas coisas para finalizar, mas estamos bem encaminhados.
+Organizamos o Trello, deixando o quadro de tarefas claro e organizado. A organização facilita o acompanhamento do projeto e seu status. Esta etapa está quase concluída.
 
-- Também estamos organizando o Trello: Deixando o nosso quadro de tarefas (Trello) bem organizado e fácil de entender. Estamos arrumando tudo para ficar mais claro o que já foi feito, o que está sendo feito e o que ainda falta fazer. Assim, fica mais fácil acompanhar o andamento do projeto e saber exatamente onde estamos. Estamos quase terminando essa parte.
+Iremos escrever o texto que resume o projeto, destacando conquistas e resultados obtidos. O foco é clareza e demonstração do sucesso do trabalho.
 
-- Estamos escrevendo o texto que vai resumir tudo o que foi feito no projeto. Queremos deixar claro o que foi alcançado e os resultados obtidos. Estamos focando em escrever algo que seja fácil de entender e que mostre bem o sucesso do nosso trabalho.
+Revisamos todo o texto para corrigir erros de digitação, gramática ou clareza. Buscamos um texto bem escrito e fácil de entender, livre de erros. Esta etapa de checagem está quase finalizada.
 
-- Estamos revisando todo o texto para corrigir qualquer erro de digitação, gramática ou clareza. Queremos garantir que tudo esteja bem escrito e fácil de entender, sem erros ou confusões. Estamos quase terminando essa etapa de checagem.
+Transferimos documentos e códigos para o GitHub para facilitar o trabalho em equipe e garantir acesso aos arquivos atualizados. A transferência para o repositório está quase concluída.
 
-- Também estamos transferindo todos os documentos e códigos para o GitHub. Isso vai facilitar o trabalho em equipe e garantir que todos tenham acesso aos arquivos mais atualizados. Estamos quase finalizando essa etapa de transferência para o repositório.
 
 
 <a href="https://drive.google.com/file/d/1CkTfOk3pIiZ_FXGgSiVQQI4GnXnkIZFp/view?usp=sharing"> Video Explicativo do protótipo</a>
