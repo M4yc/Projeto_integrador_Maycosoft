@@ -108,15 +108,15 @@ A seção de Configurações permite o acesso ao perfil do usuário para gerenci
 ### Interface Inicial:
 <p align="center">
 
-![login1](https://github.com/user-attachments/assets/3bd573ea-2616-4e4c-a260-56a245f8c1d7)
+![Captura de tela 2024-11-15 145228](https://github.com/user-attachments/assets/5c1b1e92-25b2-40d0-815e-c1212286486a)
 <p align="center"> 
-Figura 1 - Aqui o usuário faz login.
+Figura 1 - Login.
 </p>
 
 ### Interface de Dashboard:
 <p align="center">
 
-![fig 2](https://github.com/user-attachments/assets/19c5fea2-58c5-463f-9230-02bfca8e1b43)
+![Captura de tela 2024-11-15 145246](https://github.com/user-attachments/assets/0ee7e14a-23b9-4aae-a02a-c89b06e07f6d)
 </p>
 <p align="center"> 
 Figura 2 - Dashboard.
@@ -125,8 +125,7 @@ Figura 2 - Dashboard.
 ### Interface de visualização dos clientes:
 
 <p align="center">
- 
-![fig 3](https://github.com/user-attachments/assets/8c251dd6-d8dd-4346-b4a0-00c8a050854e)
+ ![Captura de tela 2024-11-15 145306](https://github.com/user-attachments/assets/a69ddef1-811b-41e9-a3b4-fa97918bbfea)
 </p>
 <p align="center"> 
 Figura 3 - Tela de visualização de clientes
@@ -135,8 +134,7 @@ Figura 3 - Tela de visualização de clientes
 ### Interface de adição de novo cliente:
 
 <p align="center">
-
-![fig 4](https://github.com/user-attachments/assets/2b9e8c52-e31c-4776-a215-931439adf82a)
+![Captura de tela 2024-11-15 145318](https://github.com/user-attachments/assets/86142381-8139-4f28-85f5-fb2be8cf6697)
 </p>
 <p align="center"> 
 Figura 4 - Tela de adicionar novo cliente
@@ -145,8 +143,8 @@ Figura 4 - Tela de adicionar novo cliente
 ### Interface de visualização de produtos:
 
 <p align="center">
-
-![fig 5](https://github.com/user-attachments/assets/ef1449e6-5681-4c3f-bec5-e4637b09b411)
+   
+![Captura de tela 2024-11-15 145336](https://github.com/user-attachments/assets/6002e4de-cdf5-4b72-a9cb-5459ea043f4b)
 </p>
 <p align="center"> 
 Figura 5 - Tela de Produtos
@@ -156,8 +154,7 @@ Figura 5 - Tela de Produtos
 
 <p align="center">
 
-![fig 6](https://github.com/user-attachments/assets/e9ceb9c3-641e-48d9-a8ad-6e31de4ad75f)
-</p>
+![Captura de tela 2024-11-15 145351](https://github.com/user-attachments/assets/85f770a1-c3fc-4113-a0b9-93150888905f)
 <p align="center"> 
 Figura 6 - Tela de Calendário
 </p>
@@ -166,7 +163,7 @@ Figura 6 - Tela de Calendário
 
 <p align="center">
 
-![fig 7](https://github.com/user-attachments/assets/6e3c367b-9b6e-435d-a775-88ecc27e6dee)
+![Captura de tela 2024-11-15 145442](https://github.com/user-attachments/assets/c3b1195e-b5c4-4dee-92d6-634460c163f3)
 </p>
 <p align="center"> 
 Figura 7 - Tela de adicionar nova nota de serviço
@@ -176,7 +173,7 @@ Figura 7 - Tela de adicionar nova nota de serviço
 
 <p align="center">
 
-![fig 8](https://github.com/user-attachments/assets/6683b2f1-997d-4c30-b39c-aa3dd089808c)
+![Captura de tela 2024-11-15 145507](https://github.com/user-attachments/assets/e5248700-e993-4d7e-b949-1d29d6cd7795)
 </p>
 <p align="center"> 
 Figura 8 - Tela de Backup
