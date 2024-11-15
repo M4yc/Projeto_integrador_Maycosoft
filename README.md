@@ -118,7 +118,8 @@ Figura 1 - Aqui o usuário faz login.
 
 ![fig 2](https://github.com/user-attachments/assets/19c5fea2-58c5-463f-9230-02bfca8e1b43)
 </p>
-<p align="center"> Figura 2 - Dashboard.
+<p align="center"> 
+Figura 2 - Dashboard.
 </p>
 
 ### Interface de visualização dos clientes:
@@ -127,7 +128,8 @@ Figura 1 - Aqui o usuário faz login.
  
 ![fig 3](https://github.com/user-attachments/assets/8c251dd6-d8dd-4346-b4a0-00c8a050854e)
 </p>
-<p align="center"> Figura 3 - Tela de visualização de clientes
+<p align="center"> 
+Figura 3 - Tela de visualização de clientes
 </p>
 
 ### Interface de adição de novo cliente:
@@ -136,7 +138,8 @@ Figura 1 - Aqui o usuário faz login.
 
 ![fig 4](https://github.com/user-attachments/assets/2b9e8c52-e31c-4776-a215-931439adf82a)
 </p>
-<p align="center"> Figura 4 - Tela adicionar novo cliente
+<p align="center"> 
+Figura 4 - Tela adicionar novo cliente
 </p>
 
 ### Interface de visualização de produtos:
@@ -145,7 +148,8 @@ Figura 1 - Aqui o usuário faz login.
 
 ![fig 5](https://github.com/user-attachments/assets/ef1449e6-5681-4c3f-bec5-e4637b09b411)
 </p>
-<p align="center"> Figura 5 - Tela Produtos
+<p align="center"> 
+Figura 5 - Tela Produtos
 </p>
 
 ### Interface de visualização de calendário:
@@ -154,7 +158,8 @@ Figura 1 - Aqui o usuário faz login.
 
 ![fig 6](https://github.com/user-attachments/assets/e9ceb9c3-641e-48d9-a8ad-6e31de4ad75f)
 </p>
-<p align="center"> Figura 6 - Tela de Calendário
+<p align="center"> 
+Figura 6 - Tela de Calendário
 </p>
 
 ### Interface de nota de serviço:
@@ -163,7 +168,8 @@ Figura 1 - Aqui o usuário faz login.
 
 ![fig 7](https://github.com/user-attachments/assets/6e3c367b-9b6e-435d-a775-88ecc27e6dee)
 </p>
-<p align="center"> Figura 7 - Tela adicionar nova nota de serviço
+<p align="center"> 
+Figura 7 - Tela adicionar nova nota de serviço
 </p>
 
 ### Interface da tela de backup:
@@ -172,7 +178,9 @@ Figura 1 - Aqui o usuário faz login.
 
 ![fig 8](https://github.com/user-attachments/assets/6683b2f1-997d-4c30-b39c-aa3dd089808c)
 </p>
-<p align="center"> Figura 12 - Tela de Backup</p>
+<p align="center"> 
+Figura 8 - Tela de Backup
+</p>
 
 
 ## Protótipo de alta fidelidade
