@@ -108,59 +108,69 @@ A seção de Configurações permite o acesso ao perfil do usuário para gerenci
 ### Interface Inicial:
 <p align="center">
 
-![Login 1](https://github.com/user-attachments/assets/9a283997-e472-41a4-a3a4-433319d2acde)
+![login1](https://github.com/user-attachments/assets/3bd573ea-2616-4e4c-a260-56a245f8c1d7)
 <p align="center"> 
-Figura 1- Aqui o usuário faz login com o seu nome e a sua senha.
+Figura 1 - Aqui o usuário faz login.
+</p>
 
 ### Interface de Dashboard:
 <p align="center">
 
 ![fig 2](https://github.com/user-attachments/assets/19c5fea2-58c5-463f-9230-02bfca8e1b43)
 </p>
-<p align="center"> Figura 2- Dashboard Essa tela é para  visualizar seus clientes,os itens em estoque, estatística de vendas em meses e vendas recentes.
+<p align="center"> Figura 2 - Dashboard.
 </p>
 
 ### Interface de visualização dos clientes:
 
 <p align="center">
-   <img src="./assets/Wireframe/Clientes.png" alt="Tela de clientes">
+ 
+![fig 3](https://github.com/user-attachments/assets/8c251dd6-d8dd-4346-b4a0-00c8a050854e)
 </p>
-<p align="center"> Figura 7 - Tela de visualização de clientes</p>
+<p align="center"> Figura 3 - Tela de visualização de clientes
+</p>
 
 ### Interface de adição de novo cliente:
 
 <p align="center">
-   <img src="./assets/Wireframe/New_Clientes.png" alt="Novo Cliente">
+
+![fig 4](https://github.com/user-attachments/assets/2b9e8c52-e31c-4776-a215-931439adf82a)
 </p>
-<p align="center"> Figura 8 - Tela adicionar novo cliente</p>
+<p align="center"> Figura 4 - Tela adicionar novo cliente
+</p>
 
 ### Interface de visualização de produtos:
 
 <p align="center">
-   <img src="./assets/Wireframe/Produtos.png" alt="Produtos">
+
+![fig 5](https://github.com/user-attachments/assets/ef1449e6-5681-4c3f-bec5-e4637b09b411)
 </p>
-<p align="center"> Figura 9 - Tela Produtos</p>
+<p align="center"> Figura 5 - Tela Produtos
+</p>
 
 ### Interface de visualização de calendário:
 
 <p align="center">
-   <img src="./assets/Wireframe/Calendario.png" alt="Calendario">
-</p>
-<p align="center"> Figura 10 - Tela de Calendário</p>
 
+![fig 6](https://github.com/user-attachments/assets/e9ceb9c3-641e-48d9-a8ad-6e31de4ad75f)
+</p>
+<p align="center"> Figura 6 - Tela de Calendário
+</p>
 
 ### Interface de nota de serviço:
 
 <p align="center">
-   <img src="./assets/Wireframe/New_Servicos.png" alt="Novo serviço">
-</p>
-<p align="center"> Figura 11 - Tela adicionar nova nota de serviço</p>
 
+![fig 7](https://github.com/user-attachments/assets/6e3c367b-9b6e-435d-a775-88ecc27e6dee)
+</p>
+<p align="center"> Figura 7 - Tela adicionar nova nota de serviço
+</p>
 
 ### Interface da tela de backup:
 
 <p align="center">
-   <img src="./assets/Wireframe/Backup.png" alt="Backup">
+
+![fig 8](https://github.com/user-attachments/assets/6683b2f1-997d-4c30-b39c-aa3dd089808c)
 </p>
 <p align="center"> Figura 12 - Tela de Backup</p>
 
