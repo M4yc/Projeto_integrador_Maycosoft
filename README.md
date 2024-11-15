@@ -106,7 +106,7 @@ A seção de Configurações permite o acesso ao perfil do usuário para gerenci
 
 ## Wireframe Completo
 ### Interface Inicial:
-
+   
 <p align="center">
    <img src="C:\Users\Luslene\Pictures\Screenshots\Captura de tela 2024-11-13 142617.png" alt="Login">
 </p>
