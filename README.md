@@ -109,13 +109,16 @@ A seção de Configurações permite o acesso ao perfil do usuário para gerenci
 <p align="center">
 
 ![Login 1](https://github.com/user-attachments/assets/9a283997-e472-41a4-a3a4-433319d2acde)
-<p align="center"> Figura 1. Aqui o usuário faz login com o seu nome e a sua senha.
+<p align="center"> 
+Figura 1- Aqui o usuário faz login com o seu nome e a sua senha.
 
 ### Interface de Dashboard:
 <p align="center">
-   <img src="./assets/Wireframe/Dashboard.png" alt="Dashboard">
+
+![fig 2](https://github.com/user-attachments/assets/19c5fea2-58c5-463f-9230-02bfca8e1b43)
 </p>
-<p align="center"> Figura 6 - Dashboard</p>
+<p align="center"> Figura 2- Dashboard Essa tela é para  visualizar seus clientes,os itens em estoque, estatística de vendas em meses e vendas recentes.
+</p>
 
 ### Interface de visualização dos clientes:
 
