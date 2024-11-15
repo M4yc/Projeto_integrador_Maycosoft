@@ -108,7 +108,8 @@ A seção de Configurações permite o acesso ao perfil do usuário para gerenci
 ### Interface Inicial:
    
 <p align="center">
-   <img src="" alt="Login">
+   <img src="![Login 1](https://github.com/user-attachments/assets/98e1064c-1646-4810-a3e3-55ef0f10b941)
+" alt="Login">
 </p>
 <p align="center"> Figura 1 -Aqui o usuário faz login com o seu nome e a sua senha.
  </p>
