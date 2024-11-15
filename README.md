@@ -16,7 +16,7 @@ Percebemos que poderiam ser feitas melhorias tanto na parte visual, quanto na pa
 
 # WHY?
 ## Quem utilizará o sistema
-Inicialmente, Luiz Filipe de Souza Oliveira, o product owner da equipe, contatou a empresa para oferecer nosso serviço de Design. Em uma reunião com o CEO da empresa, Ronivaldo Enrique Lopes, fomos direcionados à secretária, usuária do software, que nos apresentou o programa e descreveu suas dificuldades e insatisfações.
+No primeiro momento, o primeiro membro da equipe a ser product owner, entrou em contato com a empresa oferecendo o nosso serviço de Design. Houve então uma reunião com o dono da empresa, ele nos encaminhou para a secretária, que é a pessoa que utiliza o software. Com isso ela nos apresentou o programa e quais eram as dificuldades e as insatisfações.
 ### Quais seriam os problemas?
   - Interface muito antiga, tendo como forma de manuseio, somente o teclado;
   - Programa com cores que não combinam com a empresa;
