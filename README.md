@@ -107,11 +107,7 @@ A seção de Configurações permite o acesso ao perfil do usuário para gerenci
 ## Wireframe Completo
 ### Interface Inicial:
    
-<p align="center">
-   <img src="![Login 1](https://github.com/user-attachments/assets/9a283997-e472-41a4-a3a4-433319d2acde)" alt="Login">
-</p>
-<p align="center"> Figura 1 -Aqui o usuário faz login com o seu nome e a sua senha.
- </p>
+![Login 1](https://github.com/user-attachments/assets/9a283997-e472-41a4-a3a4-433319d2acde)
 
 ### Interface de Dashboard:
 
