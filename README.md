@@ -108,7 +108,7 @@ A seção de Configurações permite o acesso ao perfil do usuário para gerenci
 ### Interface Inicial:
    
 <p align="center">
-   <img src="C:\Users\Luslene\Pictures\Screenshots.png" alt="Login 1">
+   <img src="./Users/Luslene/Pictures/Screenshots.png" alt="Login 1">
 </p>
 <p align="center"> Figura 1 -Aqui o usuário faz login com o seu nome e a sua senha.
  </p>
