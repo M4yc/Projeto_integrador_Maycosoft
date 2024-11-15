@@ -104,81 +104,148 @@ O módulo de Calendário permite a visualização de datas em três perspectivas
 A seção de Configurações permite o acesso ao perfil do usuário para gerenciamento de dados pessoais, às configurações de segurança da conta e às ferramentas de backup e recuperação de dados.
 
 
-## Wireframe Completo
+<p align="center">
+<img src="./assets/Wireframe/Wire_Login.png" alt="Wireframe Login">
+<p align="center"> 
+Figura 5 - Wireframe Login.
+</p>
+
+... Insira o texto aqui...
+
+<p align="center">
+<img src="./assets/Wireframe/Wire_Dashboard.png" alt="Wireframe Dashoboard">
+<p align="center"> 
+Figura 6 - Wireframe Dashboard.
+</p>
+
+... Insira o texto aqui...
+
+<p align="center">
+<img src="./assets/Wireframe/Wire_Clientes.png" alt="Wireframe Clientes">
+<p align="center"> 
+Figura 7 - Wireframe Clientes.
+</p>
+
+... Insira o texto aqui...
+
+<p align="center">
+<img src="./assets/Wireframe/Wire_NewClientes.png" alt="Wireframe Novo Cliente">
+<p align="center"> 
+Figura 8 - Wireframe Novo Cliente.
+</p>
+
+... Insira o texto aqui...
+
+<p align="center">
+<img src="./assets/Wireframe/Wire_Servicos.png" alt="Wireframe Serviços">
+<p align="center"> 
+Figura 9 - Wireframe Serviços.
+</p>
+
+... Insira o texto aqui...
+
+<p align="center">
+<img src="./assets/Wireframe/Wire_New_Servicos.png" alt="Wireframe Novo Serviço">
+<p align="center"> 
+Figura 10 - Wireframe Novo Serviços.
+</p>
+
+... Insira o texto aqui...
+
+<p align="center">
+<img src="./assets/Wireframe/Wire_Calendario.png" alt="Wireframe Calendario">
+<p align="center"> 
+Figura 11 - Wireframe Calendario.
+</p>
+
+... Insira o texto aqui...
+
+<p align="center">
+<img src="./assets/Wireframe/Wire_Backup.png" alt="Wireframe Backup">
+<p align="center"> 
+Figura 12 - Wireframe Backup.
+</p>
+
+... Insira o texto aqui...
+
+## Protótipo de média fidelidade
 ### Interface Inicial:
 <p align="center">
 
-![Captura de tela 2024-11-15 145228](https://github.com/user-attachments/assets/5c1b1e92-25b2-40d0-815e-c1212286486a)
+<img src="./assets/Prototipo/Login.png" alt="Tela inicial">
 <p align="center"> 
-Figura 1 - Login.
+Figura 13 - Login.
 </p>
 
 ### Interface de Dashboard:
 <p align="center">
 
-![Captura de tela 2024-11-15 145246](https://github.com/user-attachments/assets/0ee7e14a-23b9-4aae-a02a-c89b06e07f6d)
+<img src="./assets/Prototipo/Dashboard.png" alt="Dashboard">
+
 </p>
 <p align="center"> 
-Figura 2 - Dashboard.
+Figura 14 - Dashboard.
 </p>
 
 ### Interface de visualização dos clientes:
 
 <p align="center">
    
- ![Captura de tela 2024-11-15 145306](https://github.com/user-attachments/assets/a69ddef1-811b-41e9-a3b4-fa97918bbfea)
+<img src="./assets/Prototipo/Clientes.png" alt="Tela Cliente">
+
 </p>
 <p align="center"> 
-Figura 3 - Tela de visualização de clientes
+Figura 15 - Tela de visualização de clientes
 </p>
 
 ### Interface de adição de novo cliente:
 
 <p align="center">
-   
-![Captura de tela 2024-11-15 145318](https://github.com/user-attachments/assets/86142381-8139-4f28-85f5-fb2be8cf6697)
+
+<img src="./assets/Prototipo/New_Clientes.png" alt="Tela Novo Cliente">
 </p>
 <p align="center"> 
-Figura 4 - Tela de adicionar novo cliente
+Figura 16 - Tela de adicionar novo cliente
 </p>
 
 ### Interface de visualização de produtos:
 
 <p align="center">
    
-![Captura de tela 2024-11-15 145336](https://github.com/user-attachments/assets/6002e4de-cdf5-4b72-a9cb-5459ea043f4b)
+<img src="./assets/Prototipo/Produtos.png" alt="Tela de Produtos">
 </p>
 <p align="center"> 
-Figura 5 - Tela de Produtos
+Figura 17 - Tela de Produtos
 </p>
 
 ### Interface de visualização de calendário:
 
 <p align="center">
 
-![Captura de tela 2024-11-15 145351](https://github.com/user-attachments/assets/85f770a1-c3fc-4113-a0b9-93150888905f)
+<img src="./assets/Prototipo/Calendario.png" alt="Tela Backup">
 <p align="center"> 
-Figura 6 - Tela de Calendário
+Figura 18 - Tela de Calendário
 </p>
 
 ### Interface de nota de serviço:
 
 <p align="center">
 
-![Captura de tela 2024-11-15 145442](https://github.com/user-attachments/assets/c3b1195e-b5c4-4dee-92d6-634460c163f3)
+<img src="./assets/Prototipo/New_Servicos.png" alt="Novo Servico">
+
 </p>
 <p align="center"> 
-Figura 7 - Tela de adicionar nova nota de serviço
+Figura 19 - Tela de adicionar nova nota de serviço
 </p>
 
 ### Interface da tela de backup:
 
 <p align="center">
 
-![Captura de tela 2024-11-15 145507](https://github.com/user-attachments/assets/e5248700-e993-4d7e-b949-1d29d6cd7795)
+<img src="./assets/Prototipo/Backup.png" alt="Tela Backup">
 </p>
 <p align="center"> 
-Figura 8 - Tela de Backup
+Figura 20 - Tela de Backup
 </p>
 
 
