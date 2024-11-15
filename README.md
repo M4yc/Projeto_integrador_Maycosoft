@@ -125,6 +125,7 @@ Figura 2 - Dashboard.
 ### Interface de visualização dos clientes:
 
 <p align="center">
+   
  ![Captura de tela 2024-11-15 145306](https://github.com/user-attachments/assets/a69ddef1-811b-41e9-a3b4-fa97918bbfea)
 </p>
 <p align="center"> 
@@ -134,6 +135,7 @@ Figura 3 - Tela de visualização de clientes
 ### Interface de adição de novo cliente:
 
 <p align="center">
+   
 ![Captura de tela 2024-11-15 145318](https://github.com/user-attachments/assets/86142381-8139-4f28-85f5-fb2be8cf6697)
 </p>
 <p align="center"> 
