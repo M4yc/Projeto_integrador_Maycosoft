@@ -139,7 +139,7 @@ Figura 3 - Tela de visualização de clientes
 ![fig 4](https://github.com/user-attachments/assets/2b9e8c52-e31c-4776-a215-931439adf82a)
 </p>
 <p align="center"> 
-Figura 4 - Tela adicionar novo cliente
+Figura 4 - Tela de adicionar novo cliente
 </p>
 
 ### Interface de visualização de produtos:
