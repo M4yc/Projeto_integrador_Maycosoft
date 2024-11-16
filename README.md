@@ -78,6 +78,26 @@ Na intenção de entender as necessidades e as perspectivas da nossa cliente, se
 
 *Remover a opção de “Cor” na nota. Adicionar um campo de “Observações” na nota para permitir a inserção de mais informações.*
 
+**6 Cadastro de Mercadorias:**
+
+O código de referência deve ser gerado automaticamente em formato de ID crescente, à medida que novas mercadorias são cadastradas.
+
+No design, manter o campo "Cód REF" sem a opção de digitar manualmente.
+
+**7 Notas de Serviço:**
+
+Adicione uma aba para selecionar a forma de pagamento com as seguintes opções: Pix, Dinheiro, ou Cartão.
+
+Incluir dois campos adicionais: um para o "Modelo" e outro para a "Série" do item.
+
+Melhorar a funcionalidade de escolha de peças nas notas, permitindo a alteração do valor da peça durante a emissão.
+
+**8 Ordens de Serviço Anteriores:**
+
+Ao clicar em um cliente, exibir todas as ordens de serviço já realizadas para esse cliente.
+
+Criar uma tela de interação onde, ao selecionar o cliente, um relatório detalhado das notas emitidas seja exibido.
+
 
 ## Identidade Visual
 A Identidade visual do sistema foi inspirada nas cores e na logomarca da R&R Assistência Técnica,com algumas adaptações criativas para harmonizar com o estilo visual desejado. A paleta de cores foi baseada nos tons característicos da empresa, mas sofreu ajustes que foram da paleta de cor roxa( Sendo essa a cor inicial ). Para a de cor azul para atender uma estética personalizada e única de acordo com o gosto do nosso cliente.
