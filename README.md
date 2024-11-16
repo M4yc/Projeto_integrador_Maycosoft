@@ -88,7 +88,7 @@ A Identidade visual do sistema foi inspirada nas cores e na logomarca da R&R Ass
 <p align="center"> Figura 4 - Identidade Visual</p>
 
 ## Wireframe
-Ao longo da trajetória da empresa Maycosoft, foram desenvolvidos protótipos de baixa fidelidade no (Figma), incorporando as funções essenciais do sistema. Este protótipo foi criado com foco na validação inicial do conceito e fluxo de usuário, servirá de base sólida para o desenvolvimento de um protótipo de alta fidelidade. A transição para alta fidelidade permitirá a exploração mais detalhada da interface, incluindo elementos visuais refinados, interações mais complexas e uma experiência de usuário mais imersiva com o protótipo de alta fidelidade, pretendemos testar a usabilidade em um contexto mais próximo da realidade, coletando feedback essencial para garantir uma experiência intuitiva e eficiente para os usuários finais.
+Ao longo da trajetória da empresa Maycosoft, foram desenvolvidos protótipos de baixa fidelidade e de média fidelidade no (Figma), incorporando as funções essenciais do sistema. Este protótipo foi criado com foco na validação inicial do conceito e fluxo de usuário, servirá de base sólida para o desenvolvimento de um protótipo de alta fidelidade. A transição para alta fidelidade permitirá a exploração mais detalhada da interface, incluindo elementos visuais refinados, interações mais complexas e uma experiência de usuário mais imersiva com o protótipo de alta fidelidade, pretendemos testar a usabilidade em um contexto mais próximo da realidade, coletando feedback essencial para garantir uma experiência intuitiva e eficiente para os usuários finais.
   
 A interface inicial oferece duas funcionalidades essenciais para a navegação do usuário: acesso à plataforma e registro. A funcionalidade de acesso permite que usuários cadastrados entrem em suas contas usando nome de usuário e senha. Já a funcionalidade de registro possibilita a criação de novas contas para usuários que ainda não estão cadastrados na plataforma.
 
@@ -110,7 +110,7 @@ A seção de Configurações permite o acesso ao perfil do usuário para gerenci
 Figura 5 - Wireframe Login.
 </p>
 
-... Insira o texto aqui...
+Essa é à tela inicial de login. Nesta tela, você precisará inserir seu nome de usuário e senha para acessar sua conta. Após inserir suas credenciais, clique no botão "Login" para prosseguir. Caso tenha esquecido sua senha, utilize a opção "Esqueci minha senha" para redefini-la. Se você ainda não possui uma conta, por favor, clique em "Criar conta".
 
 <p align="center">
 <img src="./assets/Wireframe/Wire_Dashboard.png" alt="Wireframe Dashoboard">
@@ -118,7 +118,11 @@ Figura 5 - Wireframe Login.
 Figura 6 - Wireframe Dashboard.
 </p>
 
-... Insira o texto aqui...
+No painel principal, você verá informações como: 
+Clientes: Por exemplo, o cliente com código "C001", nome "Maria Silva", telefone "(11) 99999-9999" e endereço "Rua X, 123".
+Ordens recentes: Você visualizará detalhes como a ordem para o serviço,"Troca de óleo" "realizado em 15/11/2024",e quais peças foram utilizadas em cada serviço feito.
+Estoque: O painel mostrará, por exemplo, que há 5 unidades do "Produto A" e 20 unidades do "Produto B" em estoque.
+Estatísticas: Gráficos exibirão dados como número total de clientes, ordens concluídas no mês e valor total de vendas, por exemplo.
 
 <p align="center">
 <img src="./assets/Wireframe/Wire_Clientes.png" alt="Wireframe Clientes">
@@ -126,7 +130,13 @@ Figura 6 - Wireframe Dashboard.
 Figura 7 - Wireframe Clientes.
 </p>
 
-... Insira o texto aqui...
+Nesta tela, você verá uma lista completa de seus clientes. Utilize a lupa para pesquisar rapidamente um cliente específico pelo nome ou código. A lista exibirá os seguintes dados para cada cliente:
+Código do Cliente: Um identificador único (ex: C001, C002, etc.).
+Nome do Cliente: Nome completo do cliente (ex: João da Silva).
+Endereço: Endereço completo do cliente (ex: Rua dos Pinheiros, 123 - São Paulo - SP).
+Telefone: Número de telefone do cliente (ex: (11) 1234-5678).
+Último Contato: Data do último contato realizado com o cliente (ex: 15/11/2024).
+Você também pode adicionar um novo cliente clicando no botão "Adicionar Cliente" e filtrar a lista para encontrar clientes específicos com maior facilidade, utilizando os filtros disponíveis.
 
 <p align="center">
 <img src="./assets/Wireframe/Wire_NewClientes.png" alt="Wireframe Novo Cliente">
@@ -134,7 +144,13 @@ Figura 7 - Wireframe Clientes.
 Figura 8 - Wireframe Novo Cliente.
 </p>
 
-... Insira o texto aqui...
+Como foi citado acima em"clientes",ao clicar em "Novo Cliente", você acessará um formulário para adicionar um novo cliente ao sistema. Neste formulário, você precisará preencher os seguintes campos:
+Nome: Nome completo do cliente (exemplo: Maria da Silva Santos).
+Endereço: Endereço completo,(exemplo: Rua das Flores, 123, apto 201, Vila Mariana, São Paulo).
+Telefone/Celular: Número de telefone ou celular do cliente (exemplo: (11) 98765-4321).
+Bairro: Bairro onde o cliente reside (exemplo: Vila Mariana).
+Cidade: Cidade onde o cliente reside (exemplo: São Paulo).
+Após preencher todos os campos obrigatórios, clique em "Cadastrar" para salvar as informações do novo cliente.
 
 <p align="center">
 <img src="./assets/Wireframe/Wire_Servicos.png" alt="Wireframe Serviços">
@@ -142,7 +158,13 @@ Figura 8 - Wireframe Novo Cliente.
 Figura 9 - Wireframe Serviços.
 </p>
 
-... Insira o texto aqui...
+A seção "Serviços" oferece uma lista de todos os serviços prestados, com recursos de pesquisa (lupa) e filtros, similar à seção de clientes. Você pode adicionar novos serviços e filtrar a lista existente. Cada serviço exibirá os seguintes dados:
+Código do Serviço: Um identificador único para cada serviço (ex: SRV001, SRV002, etc.).
+Nome do Cliente: O nome do cliente que solicitou o serviço (ex: João Silva).
+Status: O status atual do serviço (ex: Pendente, Em andamento, Concluído, etc.).
+Valor Total: O valor total cobrado pelo serviço (ex: R$ 150,00).
+Horas: Número de horas trabalhadas ou estimadas para o serviço (ex: 4 horas).
+Data: Data do início ou conclusão do serviço (ex: 2024-11-16).
 
 <p align="center">
 <img src="./assets/Wireframe/Wire_New_Servicos.png" alt="Wireframe Novo Serviço">
@@ -150,7 +172,20 @@ Figura 9 - Wireframe Serviços.
 Figura 10 - Wireframe Novo Serviços.
 </p>
 
-... Insira o texto aqui...
+Nesta seção, você adicionará novas notas de serviço. Para isso, preencha os seguintes campos:
+Nome do Cliente: Selecione o cliente da lista ou adicione um novo. (Exemplo: João da Silva)
+Produtos: Descrição detalhada do produto ou serviço prestado. (Exemplo: Reparo em placa-mãe de computador)
+Fabricante: Fabricante do produto. (Exemplo: Dell)
+Modelo: Modelo do produto. (Exemplo: Inspiron 5520)
+Série: Número de série do produto, se aplicável. (Exemplo: 1234567890)
+Técnico: O técnico responsável pelo serviço. (Exemplo: José da Costa)
+Garantia: Informação sobre a garantia do serviço ou produto. (Exemplo: 90 dias)
+Valor da Mão de Obra: Valor cobrado pela mão de obra. (Exemplo: R$ 100,00)
+Status: Status atual da nota de serviço (Exemplo: Aberto, Em Andamento, Concluído)
+Peças: Para cada peça utilizada, informe a descrição, valor unitário e quantidade. (Exemplo: Parafuso - R$ 2,00 - 5 unidades)
+Valor Total das Peças: Valor total das peças utilizadas. (Exemplo: R$ 10,00)
+Forma de Pagamento: Forma de pagamento utilizada pelo cliente. (Exemplo: Cartão de crédito)
+Após preencher todos os campos, clique em "Cadastrar" para salvar a nota de serviço.
 
 <p align="center">
 <img src="./assets/Wireframe/Wire_Calendario.png" alt="Wireframe Calendario">
@@ -158,7 +193,10 @@ Figura 10 - Wireframe Novo Serviços.
 Figura 11 - Wireframe Calendario.
 </p>
 
-... Insira o texto aqui...
+Essa sessão é do calendário que permite visualizar as datas de forma organizada, permitindo a escolha da visualização por:
+Mês: Exibe todos os dias do mês selecionado, mostrando os compromissos ou eventos agendados para cada dia.
+Semana: Exibe os dias da semana, facilitando a visualização dos compromissos semanais.
+Ano: Oferece uma visão completa do ano, permitindo ver os compromissos distribuídos ao longo dos meses.
 
 <p align="center">
 <img src="./assets/Wireframe/Wire_Backup.png" alt="Wireframe Backup">
@@ -166,7 +204,14 @@ Figura 11 - Wireframe Calendario.
 Figura 12 - Wireframe Backup.
 </p>
 
-... Insira o texto aqui...
+Nesta tela, você gerencia os backups do sistema. Existem três botões principais:
+Fazer Backup Agora: Permite executar um backup imediatamente.
+Restaurar Backup: Permite restaurar o sistema a partir de um backup previamente realizado.
+Agendar Backup: Permite agendar backups automáticos em intervalos regulares (diário, semanal, mensal, etc.).
+Abaixo, há um histórico de backups com informações sobre cada backup realizado e para cada backup no histórico, você encontra os botões:
+Alterar: Modificar a programação de um backup agendado.
+Excluir: Remover um backup do histórico.
+Iniciar: Iniciar um backup agendado manualmente.
 
 ## Protótipo de média fidelidade
 ### Interface Inicial:
