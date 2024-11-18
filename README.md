@@ -20,7 +20,7 @@ No primeiro momento, o primeiro membro da equipe a ser product owner, entrou em 
 ### Quais seriam os problemas?
   - Interface muito antiga, tendo como forma de manuseio, somente o teclado;
   - Programa com cores que não combinam com a empresa;
-  - Funções saturadas, procedimentos com pouca interatividade com o usuário;
+  - Funções obsoletas, procedimentos com pouca intuitividade;
   - Por ter uma interface pouco intuitiva, os procedimentos demandam mais tempo para serem concluídos.
 
 ## Storytelling
